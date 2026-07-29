@@ -9,6 +9,7 @@ def self_check(document):
  Improve formatting.
 
  Return improved version.
+ 
 
  {document}
 
