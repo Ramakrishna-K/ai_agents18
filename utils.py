@@ -7,7 +7,6 @@ def self_check(document):
  Correct grammar.
 
  Improve formatting.
-
  Return improved version.
  
 
